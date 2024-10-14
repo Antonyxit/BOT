@@ -21,7 +21,7 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] No manden mensaje este es un bot.*"
+            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ] Uso para admins únicamente venga de bots por privado https://wa.me/+524492031748.*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2340,7 +2340,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*⺀DESPIERTA TE HABLA KEROPPI BOT⺀*\n\n❏",
+                "*⺀DESPIERTA TE HABLA 𝘾𝙖𝙡𝙖𝙫𝙚𝙧𝙞𝙩𝙖 𝙈𝙭 BOT⺀*\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
@@ -2671,7 +2671,7 @@
                 "▢ *AntiLlamada:*",
                 "▢ *ModeJadiBot:*"
             ],
-            "texto2": "Thoru Bot"
+            "texto2": "𝘾𝙖𝙡𝙖𝙫𝙚𝙧𝙞𝙩𝙖 𝙈𝙭 Bot"
         },
         "info_groupsofc": {
             "texto1": [
@@ -2826,7 +2826,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝐊𝐄𝐑𝐎𝐏𝐏𝐈",
+                "𝘾𝙖𝙡𝙖𝙫𝙚𝙧𝙞𝙩𝙖 𝙈𝙭",
                 "▢ *Hola,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
